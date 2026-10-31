@@ -78,8 +78,3 @@ slice_id, type, demand, sigma, tau, hold`.
 | `hold` | Holding time in control periods |
 
 The same arrival trace for a given (rho, trial) is fed to every allocator.
-
-## Note on AI assistance
-
-Generative AI tools assisted in drafting the simulation code. The author reviewed
-the code and takes responsibility for it, as stated in the paper's declarations.
